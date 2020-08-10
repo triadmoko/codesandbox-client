@@ -246,7 +246,7 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/sajadhsm"><img src="https://avatars3.githubusercontent.com/u/20022818?v=4" width="100px;" alt="Sajad Hashemian"/><br /><sub><b>Sajad Hashemian</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=sajadhsm" title="Code">💻</a></td>
     <td align="center"><a href="https://carloslfu.github.io"><img src="https://avatars3.githubusercontent.com/u/5993168?v=4" width="100px;" alt="Carlos Galarza"/><br /><sub><b>Carlos Galarza</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=carloslfu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/soorajshankar"><img src="https://avatars2.githubusercontent.com/u/8408875?v=4" width="100px;" alt="soorajshankar"/><br /><sub><b>soorajshankar</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=soorajshankar" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/triadmoko"><img src="https://avatars1.githubusercontent.com/u/23721375?s=460&u=296999045eb7570c5c08b151e82a2066e8ab9152&v=4" width="100px;" alt="Triadmoko Denny Fatrosa"/><br /><sub><b>tdfprogramming</b></sub></a><br /><a href="https://codesandbox.io/u/triadmoko" title="Code">💻</a></td>
+    
   </tr>
   <tr>
     <td align="center"><a href="http://mcmunder.de"><img src="https://avatars3.githubusercontent.com/u/5681686?v=4" width="100px;" alt="Matthias Christoph Munder"/><br /><sub><b>Matthias Christoph Munder</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/issues?q=author%3Amcmunder" title="Bug reports">🐛</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=mcmunder" title="Code">💻</a></td>
@@ -260,6 +260,10 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://github.com/NinoMaj"><img src="https://avatars0.githubusercontent.com/u/20380632?v=4" width="100px;" alt="Nino"/><br /><sub><b>Nino</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=NinoMaj" title="Documentation">📖</a></td>
     <td align="center"><a href="https://saurabhdaware.in/"><img src="https://avatars1.githubusercontent.com/u/30949385?v=4" width="100px;" alt="Saurabh Daware"/><br /><sub><b>Saurabh Daware</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=saurabhdaware" title="Code">💻</a> <a href="#plugin-saurabhdaware" title="Plugin/utility libraries">🔌</a></td>
+  </tr>
+
+  <tr>
+  <td align="center"><a href="https://github.com/triadmoko"><img src="https://avatars1.githubusercontent.com/u/23721375?s=460&u=296999045eb7570c5c08b151e82a2066e8ab9152&v=4" width="100px;" alt="Triadmoko Denny Fatrosa"/><br /><sub><b>tdfprogramming</b></sub></a><br /><a href="https://codesandbox.io/u/triadmoko" title="Code">💻</a></td>
   </tr>
 </table>
 

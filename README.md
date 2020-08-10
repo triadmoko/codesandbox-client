@@ -260,9 +260,7 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://github.com/NinoMaj"><img src="https://avatars0.githubusercontent.com/u/20380632?v=4" width="100px;" alt="Nino"/><br /><sub><b>Nino</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=NinoMaj" title="Documentation">📖</a></td>
     <td align="center"><a href="https://saurabhdaware.in/"><img src="https://avatars1.githubusercontent.com/u/30949385?v=4" width="100px;" alt="Saurabh Daware"/><br /><sub><b>Saurabh Daware</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=saurabhdaware" title="Code">💻</a> <a href="#plugin-saurabhdaware" title="Plugin/utility libraries">🔌</a></td>
-  </tr>
 
-  <tr>
   <td align="center"><a href="https://github.com/triadmoko"><img src="https://avatars1.githubusercontent.com/u/23721375?s=460&u=296999045eb7570c5c08b151e82a2066e8ab9152&v=4" width="100px;" alt="Triadmoko Denny Fatrosa"/><br /><sub><b>tdfprogramming</b></sub></a><br /><a href="https://codesandbox.io/u/triadmoko" title="Code">💻</a></td>
   </tr>
 </table>
